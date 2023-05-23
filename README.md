@@ -30,7 +30,7 @@ Take a look to [this project](https://github.com/R3D4NG3L/PresaleSmartContract)!
 
 # 🔎 Purpose
 ## TokenPreSale.sol
-This repository offers a smart contract to manage seed sales / pre-sales. It is written in Solidity for EVM blockchains (e.g. Ethereum, BSC, Cronos, ...).
+This repository offers a smart contract to manage seed sales / pre-sales. It is written in Solidity for EVM blockchains (e.g. Ethereum, BSC, Cronos, ....).
 ## TestUSDT.sol & TestErc20Token.sol
 This repository offers also other 2 bonus smart contracts to allow you to test TokenPreSale.sol on test nets 
 
